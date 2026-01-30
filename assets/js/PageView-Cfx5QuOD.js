@@ -1,1 +1,0 @@
-import{a as e}from"./index-CEtAfkuj.js";import{Y as r,X as n,W as o}from"./vue-vendor-CltIegHl.js";import"./ant-design-vue-DokGIBGL.js";const s=e({name:"PageView"},[["render",function(e,s,t,a,i,m){const u=n("router-view");return o(),r(u)}]]);export{s as default};

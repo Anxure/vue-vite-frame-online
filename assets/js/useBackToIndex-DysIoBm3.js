@@ -1,0 +1,1 @@
+import{u as o}from"./index-DHzi9PnN.js";function n(o){if(console.log(o),0===o.length)throw Error("暂无菜单，请联系管理员");return o[0].path&&"/"!==o[0].path?o[0].path:n(o[0].children)}function r(){const r=o().menu;return console.log(r),n(r)}export{r as u};
